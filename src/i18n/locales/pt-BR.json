@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "common": {
+      "header": {
+        "selectLanguage": "Selecione o idioma",
+        "cta": "QUERO MINHA VAGA"
+      },
+      "footer": {
+        "copyright": "Todos os direitos reservados",
+        "guarantee": "Esse é um direito assegurado pelo Código do Consumidor (artigo 49 do CDC).",
+        "email": "CONTATO@MANUALDOBRUXO",
+        "instagram": "@MANUALDOBRUXO",
+        "whatsapp": "(11) 94249-9988",
+        "privacy_policy": "Política de Privacidade",
+        "terms": "Termos e Condições",
+        "company": "Assis Moreira Group, Fama Licensig e Growth Venture."
+      },
+      "whatsapp": {
+        "text": "Fale com nosso time!"
+      },
+      "vagaLimitada": {
+        "text": "VAGAS LIMITADAS"
+      },
+      "modal": {
+        "title": "PREENCHA OS DADOS ABAIXO PARA CONCLUIR SUA INSCRIÇÃO",
+        "ffTitle": "GARANTA SUA VAGA AGORA",
+        "name": "Nome",
+        "email": "E-mail",
+        "phone": "Whatsapp com DDD",
+        "submit": "QUERO GARANTIR MINHA VAGA",
+        "loading": "PROCESSANDO..."
+      },
+      "inTheMedia": {
+        "title": "Na Mídia",
+        "items": [
+          {
+            "subTitle": "JORNAL MARCA - 28/01",
+            "text": "Reality show de futebol de Ronaldinho chega a 300 mil candidatos"
+          },
+          {
+            "subTitle": "CNN - 28/01",
+            "text": "\"Manual do Bruxo\": projeto de Ronaldinho Gaúcho bate recorde de inscrições"
+          },
+          {
+            "subTitle": "UOL - 28/01",
+            "text": "Ronaldinho Gaúcho faz parceria com dupla ex-Globo em projeto sobre futebol"
+          }
+        ]
+      }
+    },
+    "faq": {
+      "title": "DÚVIDAS FREQUENTES",
+      "subtitle": "Aperte abaixo em qualquer dúvida para expandir os campos com as respostas",
+      "questions": [
+        {
+          "question": "O que é \"O Manual do Bruxo\"?",
+          "answer": "\"O Manual do Bruxo\" é um ecossistema de ensino do Ronaldinho Gaúcho, que reúne seu legado histórico, técnico e repertórios de habilidades no futebol. É um conteúdo exclusivo para quem deseja aprender com um dos maiores jogadores de todos os tempos."
+        },
+        {
+          "question": "Quem pode participar do Manual do Bruxo?",
+          "answer": "O ecossistema de ensino é aberto a todos os interessados, desde atletas amadores e profissionais até fãs que desejam conhecer mais sobre o estilo de jogo, visão e habilidades do Ronaldinho."
+        },
+        {
+          "question": "O ecossistema de ensino do Ronaldinho Gaúcho é digital ou presencial?",
+          "answer": "O ecossistema de ensino é dividido em Manual do Bruxo na modalidade digital pela plataforma Hotmart, e a Seleção de Talentos que serão eventos presenciais que avaliarão de forma individualizada cada atleta em vários seletivas pelo país."
+        },
+        {
+          "question": "Tenho mais de um filho interessado no Manual do Bruxo e na Seleção de Talentos. Como faço? Preciso comprar mais de um acesso?",
+          "answer": "Sim, cada inscrição para participar da Seleção de Talentos é individual. Recomendamos que adquira um acesso ao Manual do Bruxo para cada participante da Seleção de Talentos."
+        },
+        {
+          "question": "O que é a Seleção de Talentos?",
+          "answer": "É uma seleção especial de atletas do futebol, realizada pela equipe do Manual do Bruxo. A Seleção de Talentos será totalmente diferente das peneiras convencionais, que avaliam o atleta somente no contexto coletivo. As avaliações serão individuais dentro dos métodos e práticas ensinadas no ecossistema de ensino do Ronaldinho Gaúcho pelo Manual do Bruxo."
+        },
+        {
+          "question": "Quais são as categorias das seletivas?",
+          "answer": "As seletivas serão organizadas por faixa etária, com categorias adequadas ao desenvolvimento físico e técnico dos participantes: Sub 7, Sub 9, Sub 11, Sub 13, Sub 15, Sub 17, Sub 19, 21+"
+        },
+        {
+          "question": "Quem deve se cadastrar: pais, responsáveis ou o filho?",
+          "answer": "O cadastro deve ser feito pelo responsável legal (pai, mãe ou tutor) em caso de menores de idade. Para participantes maiores de 18 anos ou emancipados, o próprio atleta pode se inscrever."
+        },
+        { 
+          "question": "A seleção é somente para o público masculino?",
+          "answer": "Não. A seleção é aberta tanto para o público masculino quanto feminino, incentivando a participação de todos os talentos do futebol."
+        },
+        { 
+          "question": "Onde acontecerão as seletivas?",
+          "answer": "As seletivas serão realizadas em locais estratégicos que serão divulgados após o período de inscrição. Informações detalhadas serão enviadas aos participantes selecionados."
+        },
+        { 
+          "question": "Como funciona o processo de Seleção de Talentos?",
+          "answer": "A seleção será feita com base em critérios técnicos e habilidades demonstradas nos exercícios individuais e coletivos. Detalhes sobre os exercícios serão enviados aos inscritos no Manual do Bruxo."
+        },
+        { 
+          "question": "Quais são os temas abordados no Manual do Bruxo?",
+          "answer": "• Técnicas de drible e controle de bola\n• Estratégias de jogo e visão tática\n• Treinamentos de finalização e passes\n• Histórias e momentos marcantes da carreira de Ronaldinho\n• A mentalidade alegre e vencedora para se destacar no futebol"
+        },
+        { 
+          "question": "Qual é a duração do ecossistema de ensino?",
+          "answer": "A duração do curso varia de acordo com o ritmo de cada aluno. O conteúdo é organizado em módulos para facilitar o aprendizado e possui uma carga horária aproximada de 140 minutos."
+        },
+        { 
+          "question": "Como posso acessar o Manual do Bruxo?",
+          "answer": "Após a inscrição e confirmação de pagamento, você receberá por e-mail um login e senha para acessar a plataforma exclusiva do curso, que é a Hotmart."
+        },
+        { 
+          "question": "O certificado emitido pelo Manual do Bruxo pode ser usado em currículos ou portfólios?",
+          "answer": "Sim, o certificado digital é oficial e pode ser usado como um diferencial em currículos ou portfólios, especialmente em áreas relacionadas ao futebol e esportes."
+        },
+        { 
+          "question": "O ecossistema de ensino tem suporte ao aluno?",
+          "answer": "Sim, oferecemos suporte por e-mail e WhatsApp para tirar dúvidas e ajudar em qualquer etapa do curso."
+        },
+        { 
+          "question": "Quanto tempo meu filho terá acesso ao Manual do Bruxo?",
+          "answer": "O acesso ao curso será vitalício."
+        },
+        { 
+          "question": "Posso parcelar o pagamento do Manual do Bruxo?",
+          "answer": "Sim, opções de parcelamento estarão disponíveis no momento da compra, podendo parcelar em até 12x e com até dois cartões de crédito, que o ajuda a não comprometer o seu limite."
+        },
+        { 
+          "question": "As aulas são ao vivo ou gravadas? Preciso organizar um horário específico para meu filho assistir?",
+          "answer": "As aulas são gravadas, o que significa que você não precisa organizar um horário fixo para o seu filho assistir. Ele poderá acessar o conteúdo a qualquer momento, de acordo com a sua disponibilidade."
+        }
+      ],
+      "more_questions": {
+        "title": "Tenho mais dúvidas... O que faço?",
+        "content": "Se você tiver qualquer outra dúvida que não foi respondida nesta página, entre em contato com nosso Time de Suporte no WhatsApp, pelo número (11) 97644-1768 ou apertando nesse link azul aqui."
+      }
+    },
+    "course": {
+      "hero": {
+        "title": "APRENDA A MAGIA DO FUTEBOL COM RONALDINHO GAÚCHO",
+        "subtitle": "Aprenda todas as técnicas em um conteúdo inédito do melhor de todos os tempos",
+        "cta": "INSCREVA-SE",
+        "share": {
+          "title": "Manual do Bruxo",
+          "text": "Aprenda a magia do futebol com Ronaldinho Gaúcho",
+          "button": "Compartilhar"
+        },
+        "trailer": "Assistir Trailer",
+        "purchase": "Adquirir"
+      },
+      "about": {
+        "title": "Sobre o curso",
+        "bio": "Ronaldinho Gaúcho, cujo nome verdadeiro é Ronaldo de Assis Moreira, é um dos maiores ícones do futebol mundial. Conhecido por sua habilidade extraordinária, criatividade e dribles mágicos, encantou torcedores ao redor do mundo jogando em clubes renomados como Grêmio, Paris Saint-Germain, Barcelona, AC Milan, Flamengo e Atlético Mineiro. Além de conquistar títulos importantes, ele foi eleito FIFA World Player do Ano.",
+        "modules": {
+          "title": "Módulos do Treinamento",
+          "list": [
+            {
+              "title": "1. O Início da Magia",
+              "content": "Toda lenda tem um começo! Descubra como Ronaldinho Gaúcho iniciou sua trajetória e transformou o futebol com sua arte e genialidade. Venha e conheça a história por trás do jogador que revolucionou o futebol mundial."
+            },
+            {
+              "title": "2. As Técnicas do Ronaldinho",
+              "content": "Domine os dribles desconcertantes, passes precisos e finalizações fatais que marcaram gerações. Aprenda os movimentos icônicos de Ronaldinho Gaúcho e leve seu jogo para outro nível!"
+            },
+            {
+              "title": "3. A Visão do Bruxo",
+              "content": "Muito além do toque de bola, Ronaldinho via o jogo como poucos. Entenda a leitura tática, a criatividade e a tomada de decisão que tornaram seu futebol uma verdadeira obra de arte!"
+            },
+            {
+              "title": "4. A História do Bruxo",
+              "content": "De um jovem sonhador em Porto Alegre a um ícone mundial! Reviva os momentos marcantes da trajetória de Ronaldinho Gaúcho e veja como ele se tornou um dos maiores da história do futebol."
+            }
+          ]
+        },
+        "cta": "INSCREVA-SE"
+      },
+      "trailers": {
+        "title": "Trailers",
+        "modules": {
+          "1": "O Início da Magia",
+          "2": "As Técnicas do Ronaldinho",
+          "3": "A Visão do Bruxo",
+          "4": "A História do Bruxo"
+        }
+      }
+    },
+    "selection": {
+      "modal": {
+        "cta": "PARTICIPAR DA SELEÇÃO DE TALENTOS"
+      },
+      "header": {
+        "cta": "Compre e participe da Seleção de Talentos"
+      },
+      "promoBanner": {
+        "text": "Participe da seleção de talentos do Ronaldinho e vamos juntos trazer a magia de volta para o futebol."
+      },
+      "becomeYourDreams": {
+        "title": "TRANSFORME SEU SONHO EM REALIDADE",
+        "subtitle": "Mostre seu talento em campo e descubra o caminho para brilhar no futebol na Seleção de Talentos do Ronaldinho.",
+        "cta": "Adquira sua vaga na Seleção de Talentos"
+      },
+      "uniqueOportunity": {
+        "title": "FAÇA PARTE DESTA OPORTUNIDADE ÚNICA!",
+        "subtitle": "A decisão de mudar o seu futuro e de sua família é totalmente SUA!",
+        "cards": [
+          {
+            "title": "PAIS",
+            "text": "presenteie seu filho ou filha com um futuro promissor."
+          },
+          {
+            "title": "ESCOLINHAS DE FUTEBOL",
+            "text": "seja o ponto de partida dos próximos craques"
+          },
+          {
+            "title": "ATLETAS DE FUTEBOL",
+            "text": "prove o quanto você é bom de bola"
+          },
+          {
+            "title": "APAIXONADOS POR FUTEBOL",
+            "text": "que desde criança sonham em ser o próximo ídolo do futebol mundial."
+          }
+        ],
+        "cta": "Compre e participe da Seleção de Talentos"
+      },
+      "hourToShowYourTalent": {
+        "title": "CHEGOU A HORA DE MOSTRAR SEU TALENTO PARA O MUNDO!",
+        "subtitle": "A Seleção de Talentos não é uma peneira. Aqui, os talentos serão avaliados individualmente de acordo com o aprendizado adquirido nos ensinamentos do Ronaldinho que estão dentro do Manual do Bruxo. A seleção será dividida em 3 etapas:",
+        "desktopSubtitle": "A seleção de talentos não é uma peneira. Aqui, os talentos serão avaliados individualmente pela equipe do Ronaldinho Gaúcho e clubes de futebol parceiros. A seleção será dividida em 3 etapas",
+        "steps": [
+          {
+            "title": "ETAPA 1",
+            "text": "Para todos os alunos do Manual do Bruxo em todas as regiões do Brasil, a localização será divulgada dentro da área do aluno."
+          },
+          {
+            "title": "ETAPA 2",
+            "text": "Os aprovados pela equipe do Manual do Bruxo e olheiros dos clubes parceiros estarão nessa fase."
+          },
+          {
+            "title": "ETAPA 3",
+            "text": "Os aprovados na ETAPA 2 serão avaliados pelo próprio Ronaldinho e sua equipe em um evento exclusivo."
+          }
+        ],
+        "cta": "Compre e participe da Seleção de Talentos"
+      },
+      "whyWeAreDifferent": {
+        "title": "POR QUE SOMOS DIFERENTES?",
+        "subtitle": "Desde os fundamentos do futebol até a prática e o reconhecimento com premiações, nossa trilha é pensada para impulsionar a sua carreira.",
+        "disclosures": [
+          {
+            "title": "PATROCÍNIO",
+            "answer": "Ajudamos você a chegar longe! Os atletas mais promissores terão a chance de receber patrocínio para investir na carreira e acelerar seu crescimento no futebol."
+          },
+          {
+            "title": "VISIBILIDADE GLOBAL",
+            "answer": "Seu talento pode alcançar o mundo! Empresários e clubes parceiros estarão atentos aos melhores jogadores, abrindo portas para oportunidades internacionais."
+          },
+          {
+            "title": "ACOMPANHAMENTO DE CARREIRA",
+            "answer": "Do início ao topo! Nossa equipe acompanha e orienta seu desenvolvimento para que você evolua como atleta e esteja sempre preparado para desafios maiores."
+          },
+          {
+            "title": "ENCONTRO COM RONALDINHO",
+            "answer": "Inspire-se com quem revolucionou o futebol! Um encontro especial com Ronaldinho Gaúcho, onde você poderá aprender com um dos maiores craques de todos os tempos."
+          },
+          {
+            "title": "OUTROS BENEFÍCIOS",
+            "answer": "Além de treinamento e avaliações, você terá material exclusivo, metodologias inovadoras e um caminho estruturado para se tornar um jogador de alto nível."
+          }
+        ],
+        "cta": "Compre e participe da Seleção de Talentos"
+      },
+      "grantYourVacancy": {
+        "title": "GARANTA SUA VAGA AGORA E RECEBA BENEFÍCIOS EXCLUSIVOS!",
+        "subtitle": "Além da VAGA GARANTIDA na seleção de Talentos você ganhará:",
+        "benefits": [
+          {
+            "text": "Acesso ao treinamento online do Ronaldinho para se preparar para a Seleção de Talentos."
+          },
+          {
+            "text": "Kit Exclusivo do Manual do Bruxo que te entregaremos presencialmente na Seleção de Talentos."
+          },
+          {
+            "text": "Certificado Oficial de Treinamento do Ronaldinho."
+          }
+        ],
+        "cta": "Compre e participe da Seleção de Talentos"
+      },
+      "guaranteesWithTheManual": {
+        "title": "COM O MANUAL DO BRUXO VOCÊ GARANTE:",
+        "benefits": [
+          "Vaga na Seleção de Talentos PRESENCIAL",
+          "Acesso ao Treinamento do Ronaldinho Gaúcho",
+          "Certificado Oficial",
+          "Kit Boas Vindas à Seleção de Talentos"
+        ],
+        "fromText": "DE",
+        "installmentsText": "POR:",
+        "orText": "ou {{installments}}X DE R$ {{installmentValue}}",
+        "cta": "Compre e participe da Seleção de Talentos"
+      }
+    },
+    "categories": {
+      "title": "CONHEÇA AS CATEGORIAS DA SELEÇÃO DE TALENTOS",
+      "subtitle": "As seletivas acontecerão nas principais regiões do Brasil de forma presencial, com a participação de toda equipe do Ronaldinho e clubes de futebol parceiros.",
+      "headers": [
+        "CATEGORIAS",
+        "FAIXA ETÁRIA",
+        "GÊNERO"
+      ],
+      "data": [
+        [
+          "SUB-7",
+          "6 E 7 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-9",
+          "8 E 9 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-11",
+          "10 E 11 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-13",
+          "12 E 13 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-15",
+          "14 E 15 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-17",
+          "16 E 17 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "SUB-20",
+          "18, 19 E 20 ANOS",
+          "MASCULINO E FEMININO"
+        ],
+        [
+          "21+",
+          "21 ANOS OU +",
+          "MASCULINO E FEMININO"
+        ]
+      ]
+    },
+    "rewards": {
+      "title": "PRÊMIOS EXCLUSIVOS TE AGUARDAM",
+      "subtitle": "Ganhe entre 100 Colecionáveis Icônicos! Participantes do Curso de Treinamento do Ronaldinho Gaúcho serão inscritos em um sorteio para ganhar um entre 100 prêmios exclusivos, incluindo:",
+      "certificate": "Cada item colecionável inclui um certificado de autenticidade, perfeito para fãs apaixonados e colecionadores. Para participar, faça sua compra durante o período promocional. Termos e condições aplicam-se."
+    },
+    "certificate": {
+      "title": "BÔNUS DE CONCLUSÃO: CERTIFICADO PREMIUM",
+      "subtitle": "Todos os estudantes bem-sucedidos recebem um Certificado Digital Premium contendo:",
+      "features": {
+        "design": "O design exclusivo do R10 e a assinatura do Ronaldinho.",
+        "recognition": "Este certificado é reconhecido para apresentação em escolas de futebol e academias.",
+        "physical": "Para os interessados, uma versão física de alta qualidade também está disponível para compra separadamente."
+      }
+    }
+  }
+}

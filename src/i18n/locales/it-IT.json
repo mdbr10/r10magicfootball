@@ -1,0 +1,363 @@
+{
+  "translation": {
+    "common": {
+      "header": {
+        "selectLanguage": "Seleziona lingua",
+        "cta": "VOGLIO IL MIO POSTO"
+      },
+      "footer": {
+        "copyright": "Tutti i diritti riservati",
+        "guarantee": "Questo è un diritto garantito dal Codice del Consumatore (articolo 49 del CDC).",
+        "email": "CONTATO@MANUALDOBRUXO",
+        "instagram": "@MANUALDOBRUXO",
+        "whatsapp": "(11) 94249-9988",
+        "privacy_policy": "Politica sulla Privacy",
+        "terms": "Termini e Condizioni",
+        "company": "Assis Moreira Group, Fama Licensing e Growth Venture."
+      },
+      "whatsapp": {
+        "text": "Parla con il nostro team!"
+      },
+      "vagaLimitada": {
+        "text": "POSTI LIMITATI"
+      },
+      "inTheMedia": {
+        "title": "Nei Media",
+        "items": [
+          {
+            "subTitle": "GIORNALE MARCA - 28/01",
+            "text": "Il reality show di calcio di Ronaldinho raggiunge 300.000 candidati"
+          },
+          {
+            "subTitle": "CNN - 28/01",
+            "text": "\"Manuale di Ronaldinho Gaúcho\": il progetto di Ronaldinho Gaúcho batte il record di iscrizioni"
+          },
+          {
+            "subTitle": "UOL - 28/01",
+            "text": "Ronaldinho Gaúcho collabora con l'ex duo di Globo in un progetto sul calcio"
+          }
+        ]
+      },
+      "modal": {
+        "title": "COMPILA I DATI SOTTOSTANTI PER COMPLETARE LA TUA ISCRIZIONE",
+        "ffTitle": "ASSICURA IL TUO POSTO ORA",
+        "name": "Nome",
+        "email": "Email",
+        "phone": "Whatsapp con DDD",
+        "submit": "VOGLIO GARANTIR IL MIO POSTO",
+        "loading": "PROCESSANDO..."
+      }
+    },
+    "faq": {
+      "title": "DOMANDE FREQUENTI",
+      "subtitle": "Clicca su qualsiasi domanda qui sotto per espandere i campi con le risposte",
+      "questions": [
+        {
+          "question": "Cos'è \"Il Manuale del Ronaldinho Gaúcho\"?",
+          "answer": "\"Il Manuale del Ronaldinho Gaúcho\" è un ecosistema di insegnamento di Ronaldinho Gaúcho, che riunisce il suo patrimonio storico, tecnico e repertori di abilità nel calcio. È un contenuto esclusivo per chi desidera imparare da uno dei più grandi giocatori di tutti i tempi."
+        },
+        {
+          "question": "Chi può partecipare al Manuale del Ronaldinho Gaúcho?",
+          "answer": "L'ecosistema di insegnamento è aperto a tutti gli interessati, dagli atleti dilettanti e professionisti ai fan che desiderano conoscere di più sullo stile di gioco, la visione e le abilità di Ronaldinho."
+        },
+        {
+          "question": "L'ecosistema di insegnamento di Ronaldinho Gaúcho è digitale o in presenza?",
+          "answer": "L'ecosistema di insegnamento è diviso nel Manuale del Ronaldinho Gaúcho in formato digitale attraverso la piattaforma Hotmart, e la Selezione dei Talenti che saranno eventi in presenza che valuteranno individualmente ogni atleta in varie selezioni in tutto il paese."
+        },
+        {
+          "question": "Ho più di un figlio interessato al Manuale del Ronaldinho Gaúcho e alla Selezione dei Talenti. Come faccio? Devo acquistare più di un accesso?",
+          "answer": "Sì, ogni iscrizione per partecipare alla Selezione dei Talenti è individuale. Raccomandiamo di acquisire un accesso al Manuale del Ronaldinho Gaúcho per ogni partecipante alla Selezione dei Talenti."
+        },
+        {
+          "question": "Cos'è la Selezione dei Talenti?",
+          "answer": "È una selezione speciale di atleti del calcio, realizzata dal team del Manuale del Ronaldinho Gaúcho. La Selezione dei Talenti sarà completamente diversa dai provini convenzionali, che valutano l'atleta solo nel contesto collettivo. Le valutazioni saranno individuali all'interno dei metodi e delle pratiche insegnate nell'ecosistema di insegnamento di Ronaldinho Gaúcho attraverso il Manuale del Ronaldinho Gaúcho."
+        },
+        {
+          "question": "Quali sono le categorie delle selezioni?",
+          "answer": "Le selezioni saranno organizzate per fascia d'età, con categorie adeguate allo sviluppo fisico e tecnico dei partecipanti: Under 7, Under 9, Under 11, Under 13, Under 15, Under 17, Under 19, 21+"
+        },
+        {
+          "question": "Chi deve registrarsi: genitori, responsabili o il figlio?",
+          "answer": "La registrazione deve essere effettuata dal responsabile legale (padre, madre o tutore) in caso di minori. Per i partecipanti maggiorenni o emancipati, l'atleta stesso può iscriversi."
+        },
+        {
+          "question": "La selezione è solo per il pubblico maschile?",
+          "answer": "No. La selezione è aperta sia al pubblico maschile che femminile, incoraggiando la partecipazione di tutti i talenti del calcio."
+        },
+        {
+          "question": "Dove si svolgeranno le selezioni?",
+          "answer": "Le selezioni si svolgeranno in luoghi strategici che saranno annunciati dopo il periodo di iscrizione. Informazioni dettagliate saranno inviate ai partecipanti selezionati."
+        },
+        {
+          "question": "Come funziona il processo di Selezione dei Talenti?",
+          "answer": "La selezione sarà effettuata in base a criteri tecnici e abilità dimostrate negli esercizi individuali e collettivi. Dettagli sugli esercizi saranno inviati agli iscritti al Manuale del Ronaldinho Gaúcho."
+        },
+        {
+          "question": "Quali argomenti sono trattati nel Manuale del Ronaldinho Gaúcho?",
+          "answer": "• Tecniche di dribbling e controllo della palla\n• Strategie di gioco e visione tattica\n• Allenamenti di finalizzazione e passaggi\n• Storie e momenti memorabili della carriera di Ronaldinho\n• La mentalità gioiosa e vincente per distinguersi nel calcio"
+        },
+        {
+          "question": "Qual è la durata dell'ecosistema di insegnamento?",
+          "answer": "La durata del corso varia in base al ritmo di ogni studente. Il contenuto è organizzato in moduli per facilitare l'apprendimento e ha un carico orario approssimativo di 140 minuti."
+        },
+        {
+          "question": "Come posso accedere al Manuale del Ronaldinho Gaúcho?",
+          "answer": "Dopo l'iscrizione e la conferma del pagamento, riceverai via e-mail un login e una password per accedere alla piattaforma esclusiva del corso, che è Hotmart."
+        },
+        {
+          "question": "Il certificato rilasciato dal Manuale del Ronaldinho Gaúcho può essere utilizzato nei curriculum o portfolio?",
+          "answer": "Sì, il certificato digitale è ufficiale e può essere utilizzato come un differenziale nei curriculum o portfolio, specialmente in aree legate al calcio e allo sport."
+        },
+        {
+          "question": "L'ecosistema di insegnamento ha supporto per gli studenti?",
+          "answer": "Sì, offriamo supporto via e-mail e WhatsApp per rispondere alle domande e aiutare in qualsiasi fase del corso."
+        },
+        {
+          "question": "Per quanto tempo mio figlio avrà accesso al Manuale del Ronaldinho Gaúcho?",
+          "answer": "L'accesso al corso è a vita."
+        },
+        {
+          "question": "Posso pagare il Manuale del Ronaldinho Gaúcho a rate?",
+          "answer": "Sì, le opzioni di pagamento rateale saranno disponibili al momento dell'acquisto, potendo pagare fino a 12 rate e con fino a due carte di credito, il che ti aiuta a non compromettere il tuo limite."
+        },
+        {
+          "question": "Le lezioni sono in diretta o registrate? Devo organizzare un orario specifico per mio figlio per guardarle?",
+          "answer": "Le lezioni sono registrate, il che significa che non è necessario organizzare un orario fisso per tuo figlio per guardarle. Potrà accedere al contenuto in qualsiasi momento, in base alla sua disponibilità."
+        }
+      ],
+      "more_questions": {
+        "title": "Ho altre domande... Cosa devo fare?",
+        "content": "Se hai altre domande che non hanno trovato risposta in questa pagina, contatta il nostro Team di Supporto su WhatsApp al numero (11) 97644-1768 o cliccando su questo link blu qui."
+      }
+    },
+    "course": {
+      "hero": {
+        "title": "IMPARA LA MAGIA DEL CALCIO CON RONALDINHO GAÚCHO",
+        "subtitle": "Impara tutte le tecniche in un contenuto esclusivo del più grande di tutti i tempi",
+        "cta": "ISCRIVITI",
+        "share": {
+          "title": "Manuale del Ronaldinho Gaúcho",
+          "text": "Impara la magia del calcio con Ronaldinho Gaúcho",
+          "button": "Condividi"
+        },
+        "trailer": "Guarda il Trailer",
+        "purchase": "Acquista"
+      },
+      "about": {
+        "title": "Sul corso",
+        "bio": "Ronaldinho Gaúcho, il cui vero nome è Ronaldo de Assis Moreira, è una delle più grandi icone del calcio mondiale. Conosciuto per la sua straordinaria abilità, creatività e dribbling magici, ha incantato i tifosi di tutto il mondo giocando in club rinomati come Grêmio, Paris Saint-Germain, Barcellona, AC Milan, Flamengo e Atlético Mineiro. Oltre a vincere titoli importanti, è stato eletto FIFA World Player of the Year.",
+        "modules": {
+          "title": "Moduli di Formazione",
+          "list": [
+            {
+              "title": "1. L'Inizio della Magia",
+              "content": "Ogni leggenda ha un inizio! Scopri come Ronaldinho Gaúcho ha iniziato il suo percorso e trasformato il calcio con la sua arte e il suo genio. Vieni a conoscere la storia dietro il giocatore che ha rivoluzionato il calcio mondiale."
+            },
+            {
+              "title": "2. Le Tecniche di Ronaldinho",
+              "content": "Padroneggia i dribbling sconcertanti, i passaggi precisi e le finalizzazioni letali che hanno segnato generazioni. Impara le mosse iconiche di Ronaldinho Gaúcho e porta il tuo gioco a un altro livello!"
+            },
+            {
+              "title": "3. La Visione del Mago",
+              "content": "Ben oltre il tocco di palla, Ronaldinho vedeva il gioco come pochi altri. Comprendi la lettura tattica, la creatività e il processo decisionale che hanno reso il suo calcio una vera opera d'arte!"
+            },
+            {
+              "title": "4. La Storia del Mago",
+              "content": "Da giovane sognatore a Porto Alegre a icona mondiale! Rivivi i momenti memorabili del percorso di Ronaldinho Gaúcho e scopri come è diventato uno dei più grandi nella storia del calcio."
+            }
+          ]
+        },
+        "cta": "ISCRIVITI"
+      },
+      "trailers": {
+        "title": "Trailer",
+        "modules": {
+          "1": "L'Inizio della Magia",
+          "2": "Le Tecniche di Ronaldinho",
+          "3": "La Visione del Mago",
+          "4": "La Storia del Mago"
+        }
+      }
+    },
+    "selection": {
+      "modal": {
+        "cta": "PARTICIPA ALLA SELEZIONE DEI TALENTI"
+      },
+      "header": {
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      },
+      "promoBanner": {
+        "text": "Partecipa alla selezione dei talenti di Ronaldinho e insieme riportiamo la magia nel calcio."
+      },
+      "becomeYourDreams": {
+        "title": "TRASFORMA IL TUO SOGNO IN REALTÀ",
+        "subtitle": "Mostra il tuo talento in campo e scopri il percorso per brillare nel calcio alla Selezione dei Talenti di Ronaldinho.",
+        "cta": "Assicurati il tuo posto nella Selezione dei Talenti"
+      },
+      "uniqueOportunity": {
+        "title": "FAI PARTE DI QUESTA OPPORTUNITÀ UNICA!",
+        "subtitle": "La decisione di cambiare il tuo futuro e quello della tua famiglia è completamente TUA!",
+        "cards": [
+          {
+            "title": "GENITORI",
+            "text": "regala a tuo figlio o figlia un futuro promettente."
+          },
+          {
+            "title": "SCUOLE DI CALCIO",
+            "text": "sii il punto di partenza delle prossime stelle"
+          },
+          {
+            "title": "ATLETI DI CALCIO",
+            "text": "dimostra quanto sei bravo con la palla"
+          },
+          {
+            "title": "APPASSIONATI DI CALCIO",
+            "text": "che fin da bambini sognano di essere il prossimo idolo del calcio mondiale."
+          }
+        ],
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      },
+      "hourToShowYourTalent": {
+        "title": "È ARRIVATO IL MOMENTO DI MOSTRARE IL TUO TALENTO AL MONDO!",
+        "subtitle": "La Selezione dei Talenti non è un setaccio. Qui, i talenti saranno valutati individualmente secondo l'apprendimento acquisito negli insegnamenti di Ronaldinho che sono all'interno del Manuale di Ronaldinho Gaúcho. La selezione sarà divisa in 3 fasi:",
+        "desktopSubtitle": "La selezione dei talenti non è un setaccio. Qui, i talenti saranno valutati individualmente dal team di Ronaldinho Gaúcho e dai club di calcio partner. La selezione sarà divisa in 3 fasi",
+        "steps": [
+          {
+            "title": "FASE 1",
+            "text": "Per tutti gli studenti del Manuale di Ronaldinho Gaúcho in tutte le regioni del Brasile, la posizione sarà annunciata all'interno dell'area studenti."
+          },
+          {
+            "title": "FASE 2",
+            "text": "Coloro che sono approvati dal team del Manuale di Ronaldinho Gaúcho e dagli osservatori dei club partner saranno in questa fase."
+          },
+          {
+            "title": "FASE 3",
+            "text": "Coloro che sono approvati nella FASE 2 saranno valutati da Ronaldinho stesso e dal suo team in un evento esclusivo."
+          }
+        ],
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      },
+      "whyWeAreDifferent": {
+        "title": "PERCHÉ SIAMO DIVERSI?",
+        "subtitle": "Dai fondamenti del calcio alla pratica e al riconoscimento con premi, il nostro percorso è progettato per dare impulso alla tua carriera.",
+        "disclosures": [
+          {
+            "title": "SPONSORIZZAZIONE",
+            "answer": "Ti aiutiamo ad arrivare lontano! Gli atleti più promettenti avranno la possibilità di ricevere una sponsorizzazione per investire nella loro carriera e accelerare la loro crescita nel calcio."
+          },
+          {
+            "title": "VISIBILITÀ GLOBALE",
+            "answer": "Il tuo talento può raggiungere il mondo! Imprenditori e club partner saranno attenti ai migliori giocatori, aprendo porte a opportunità internazionali."
+          },
+          {
+            "title": "MONITORAGGIO DELLA CARRIERA",
+            "answer": "Dall'inizio alla vetta! Il nostro team monitora e guida il tuo sviluppo affinché tu evolva come atleta e sia sempre pronto per sfide più grandi."
+          },
+          {
+            "title": "INCONTRO CON RONALDINHO",
+            "answer": "Lasciati ispirare da chi ha rivoluzionato il calcio! Un incontro speciale con Ronaldinho Gaúcho, dove potrai imparare da uno dei più grandi giocatori di tutti i tempi."
+          },
+          {
+            "title": "ALTRI BENEFICI",
+            "answer": "Oltre alla formazione e alle valutazioni, avrai materiale esclusivo, metodologie innovative e un percorso strutturato per diventare un giocatore di alto livello."
+          }
+        ],
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      },
+      "grantYourVacancy": {
+        "title": "ASSICURATI IL TUO POSTO ORA E RICEVI BENEFICI ESCLUSIVI!",
+        "subtitle": "Oltre al POSTO GARANTITO nella selezione dei Talenti, riceverai:",
+        "benefits": [
+          {
+            "text": "Accesso alla formazione online di Ronaldinho per prepararti alla Selezione dei Talenti."
+          },
+          {
+            "text": "Kit Esclusivo del Manuale di Ronaldinho Gaúcho che ti consegneremo di persona alla Selezione dei Talenti."
+          },
+          {
+            "text": "Certificato Ufficiale di Formazione di Ronaldinho."
+          }
+        ],
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      },
+      "guaranteesWithTheManual": {
+        "title": "CON IL MANUALE DI RONALDINHO GAÚCHO TU GARANTISCI:",
+        "benefits": [
+          "Posto nella Selezione dei Talenti IN PRESENZA",
+          "Accesso alla Formazione di Ronaldinho Gaúcho",
+          "Certificato Ufficiale",
+          "Kit di Benvenuto alla Selezione dei Talenti"
+        ],
+        "fromText": "DA",
+        "installmentsText": "PER:",
+        "orText": "o {{installments}}X DI R$ {{installmentValue}}",
+        "cta": "Acquista e partecipa alla Selezione dei Talenti"
+      }
+    },
+    "categories": {
+      "title": "SCOPRI LE CATEGORIE DELLA SELEZIONE DEI TALENTI",
+      "subtitle": "Le selezioni si svolgeranno nelle principali regioni del Brasile in presenza, con la partecipazione di tutto il team di Ronaldinho e club di calcio partner.",
+      "headers": [
+        "CATEGORIE",
+        "FASCIA D'ETÀ",
+        "GENERE"
+      ],
+      "data": [
+        [
+          "UNDER-7",
+          "6 E 7 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-9",
+          "8 E 9 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-11",
+          "10 E 11 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-13",
+          "12 E 13 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-15",
+          "14 E 15 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-17",
+          "16 E 17 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "UNDER-20",
+          "18, 19 E 20 ANNI",
+          "MASCHILE E FEMMINILE"
+        ],
+        [
+          "21+",
+          "21 ANNI O +",
+          "MASCHILE E FEMMINILE"
+        ]
+      ]
+    },
+    "rewards": {
+      "title": "PREMI ESCLUSIVI TI ASPETTANO",
+      "subtitle": "Vinci tra 100 Oggetti da Collezione Iconici! I partecipanti al Corso di Formazione di Ronaldinho Gaúcho parteciperanno a un sorteggio per vincere uno dei 100 premi esclusivi, inclusi:",
+      "certificate": "Ogni oggetto da collezione include un certificato di autenticità, perfetto per appassionati e collezionisti. Per partecipare, effettua il tuo acquisto durante il periodo promozionale. Si applicano termini e condizioni."
+    },
+    "certificate": {
+      "title": "BONUS DI COMPLETAMENTO: CERTIFICATO PREMIUM",
+      "subtitle": "Tutti gli studenti di successo ricevono un Certificato Digitale Premium che include:",
+      "features": {
+        "design": "Il design esclusivo dello stemma R10 e la firma di Ronaldinho.",
+        "recognition": "Questo certificato è riconosciuto per la presentazione nelle scuole di calcio e nelle accademie.",
+        "physical": "Per coloro che sono interessati, una versione fisica di alta qualità è disponibile anche per l'acquisto separatamente."
+      }
+    }
+  }
+}

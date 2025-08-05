@@ -1,0 +1,8 @@
+.swiper-pagination {
+  position: relative;
+  margin-top: 0.5rem;
+}
+
+.swiper-pagination-bullet-active {
+  background: #3eff48;
+}
