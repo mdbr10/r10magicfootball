@@ -27,8 +27,8 @@ const gazzetta = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Manual do Bruxo",
-  description: "Transforme seu sonho em realidade!",
+  title: "Magic Football by Ronaldinho",
+  description: "Transform your dream!",
 };
 
 export default function RootLayout({

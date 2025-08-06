@@ -10,7 +10,7 @@
         "guarantee": "Questo è un diritto garantito dal Codice del Consumatore (articolo 49 del CDC).",
         "email": "CONTATO@MANUALDOBRUXO",
         "instagram": "@MANUALDOBRUXO",
-        "whatsapp": "(11) 94249-9988",
+"whatsapp": "(11) 94249-9988",
         "privacy_policy": "Politica sulla Privacy",
         "terms": "Termini e Condizioni",
         "company": "Assis Moreira Group, Fama Licensing e Growth Venture."
@@ -133,10 +133,10 @@
     "course": {
       "hero": {
         "title": "IMPARA LA MAGIA DEL CALCIO CON RONALDINHO GAÚCHO",
-        "subtitle": "Impara tutte le tecniche in un contenuto esclusivo del più grande di tutti i tempi",
-        "cta": "ISCRIVITI",
+        "subtitle": "Sblocca il tuo potenziale con la guida di una vera leggenda del calcio. Entra nel mondo di Ronaldinho Gaúcho, un'icona celebrata per creatività, fantasia e abilità decisive. Esplora il suo percorso, scopri le sue tecniche e porta il tuo gioco a un nuovo livello con contenuti esclusivi.",
+        "cta": "Unisciti al Viaggio",
         "share": {
-          "title": "Manuale del Ronaldinho Gaúcho",
+          "title": "Manuale di Ronaldinho Gaúcho",
           "text": "Impara la magia del calcio con Ronaldinho Gaúcho",
           "button": "Condividi"
         },
@@ -144,38 +144,120 @@
         "purchase": "Acquista"
       },
       "about": {
-        "title": "Sul corso",
-        "bio": "Ronaldinho Gaúcho, il cui vero nome è Ronaldo de Assis Moreira, è una delle più grandi icone del calcio mondiale. Conosciuto per la sua straordinaria abilità, creatività e dribbling magici, ha incantato i tifosi di tutto il mondo giocando in club rinomati come Grêmio, Paris Saint-Germain, Barcellona, AC Milan, Flamengo e Atlético Mineiro. Oltre a vincere titoli importanti, è stato eletto FIFA World Player of the Year.",
+        "title": "Informazioni sul corso",
+        "bio": "Ronaldinho Gaúcho: un'icona globale del calcio. Un maestro che ha incantato al PSG, Barcellona, Milan e con la nazionale brasiliana, affascinando il mondo con il suo talento e la sua arte. Partecipa all’unico corso che cattura il genio di questo Giocatore dell’Anno FIFA.",
         "modules": {
           "title": "Moduli di Formazione",
           "list": [
             {
               "title": "1. L'Inizio della Magia",
-              "content": "Ogni leggenda ha un inizio! Scopri come Ronaldinho Gaúcho ha iniziato il suo percorso e trasformato il calcio con la sua arte e il suo genio. Vieni a conoscere la storia dietro il giocatore che ha rivoluzionato il calcio mondiale."
+              "content": "Ogni leggenda ha un inizio! Scopri le origini del percorso straordinario di Ronaldinho Gaúcho e come la sua creatività, stile e talento puro hanno trasformato il gioco del calcio. Conosci la storia ispiratrice di un genio che ha ridefinito l’arte del pallone."
             },
             {
               "title": "2. Le Tecniche di Ronaldinho",
-              "content": "Padroneggia i dribbling sconcertanti, i passaggi precisi e le finalizzazioni letali che hanno segnato generazioni. Impara le mosse iconiche di Ronaldinho Gaúcho e porta il tuo gioco a un altro livello!"
+              "content": "Migliora le tue abilità con i suoi dribbling leggendari, passaggi precisi e conclusioni spettacolari. Approfondisci lo stile unico di Ronaldinho Gaúcho, impara i suoi movimenti iconici e porta il tuo gioco a un livello superiore!"
             },
             {
-              "title": "3. La Visione del Mago",
-              "content": "Ben oltre il tocco di palla, Ronaldinho vedeva il gioco come pochi altri. Comprendi la lettura tattica, la creatività e il processo decisionale che hanno reso il suo calcio una vera opera d'arte!"
+              "title": "3. La Visione di Gioco di Ronaldinho Gaúcho",
+              "content": "Il calcio non è solo controllo: è visione, creatività e intuito. Scopri come Ronaldinho vedeva ciò che gli altri non vedevano. Analizza la sua straordinaria lettura tattica e come trasformava ogni azione in un momento artistico."
             },
             {
-              "title": "4. La Storia del Mago",
-              "content": "Da giovane sognatore a Porto Alegre a icona mondiale! Rivivi i momenti memorabili del percorso di Ronaldinho Gaúcho e scopri come è diventato uno dei più grandi nella storia del calcio."
+              "title": "4. La Storia di Ronaldinho Gaúcho",
+              "content": "Dalle strade di Porto Alegre ai palcoscenici più grandi del mondo, Ronaldinho ha incantato milioni di persone con talento e carisma. Rivivi i momenti memorabili del suo viaggio, da giovane sognatore a leggenda globale."
             }
           ]
         },
-        "cta": "ISCRIVITI"
+        "cta": "ISCRIVITI ORA"
       },
       "trailers": {
         "title": "Trailer",
         "modules": {
           "1": "L'Inizio della Magia",
           "2": "Le Tecniche di Ronaldinho",
-          "3": "La Visione del Mago",
-          "4": "La Storia del Mago"
+          "3": "La Visione di Ronaldinho Gaúcho",
+          "4": "La Storia di Ronaldinho Gaúcho"
+        }
+      },
+      "faq": {
+        "title": "DOMANDE FREQUENTI",
+        "subtitle": "Clicca su una domanda per visualizzare la risposta",
+        "questions": [
+          {
+            "question": "Cos'è il \"Corso Magico di Calcio di Ronaldinho\"?",
+            "answer": "È un ecosistema esclusivo creato da Ronaldinho Gaúcho per insegnare il calcio. Combina la sua eredità, abilità tecniche e stile innovativo. È pensato per giocatori, fan e professionisti che vogliono imparare da una leggenda del calcio mondiale."
+          },
+          {
+            "question": "Chi può partecipare al corso?",
+            "answer": "Il corso è aperto a tutti: giocatori amatoriali, professionisti o fan appassionati. Basta voler apprendere lo stile e l’approccio unico di Ronaldinho."
+          },
+          {
+            "question": "Chi deve iscriversi?",
+            "answer": "Per i minorenni, l’iscrizione deve essere effettuata da un tutore legale. I maggiorenni o gli emancipati possono iscriversi autonomamente."
+          },
+          {
+            "question": "Quali argomenti tratta il corso?",
+            "answer": "Il corso affronta:\n\n• Tecniche di dribbling e controllo palla\n• Strategie di gioco e visione tattica\n• Tiri e passaggi efficaci\n• Momenti storici della carriera di Ronaldinho\n• Mentalità vincente e gioiosa"
+          },
+          {
+            "question": "Quanto dura il corso?",
+            "answer": "La durata varia a seconda del ritmo di ciascun partecipante. In media, il corso ha una durata di circa 140 minuti ed è diviso in moduli."
+          },
+          {
+            "question": "Come posso accedere al corso?",
+            "answer": "Dopo la registrazione e il pagamento riceverai un’e-mail con le credenziali per accedere alla piattaforma Hotmart."
+          },
+          {
+            "question": "Il certificato può valorizzare il mio CV o portfolio?",
+            "answer": "Assolutamente sì! È un certificato ufficiale che aggiunge valore, soprattutto in ambito sportivo e professionale."
+          },
+          {
+            "question": "Per quanto tempo avrò accesso al corso?",
+            "answer": "L’accesso è illimitato e a vita. Potrai rivedere i contenuti ogni volta che vorrai."
+          },
+          {
+            "question": "Le lezioni sono dal vivo o registrate?",
+            "answer": "Sono registrate, così puoi seguirle quando vuoi, senza limiti di orario."
+          },
+          {
+            "question": "Cosa fare se non trovo la risposta sul sito?",
+            "answer": "Contatta il nostro supporto via e-mail. Siamo qui per aiutarti in ogni fase!"
+          },
+          {
+            "question": "Quali temi sono presenti nel Manuale di Ronaldinho?",
+            "answer": "• Tecniche di dribbling e controllo\n• Strategie e visione tattica\n• Passaggi e conclusioni\n• Storie della carriera\n• Mentalità vincente"
+          },
+          {
+            "question": "Quanto dura il percorso formativo?",
+            "answer": "Circa 140 minuti, ma ognuno può gestirlo al proprio ritmo."
+          },
+          {
+            "question": "Come si accede al Manuale di Ronaldinho?",
+            "answer": "Dopo la registrazione, riceverai username e password via e-mail per accedere alla piattaforma Hotmart."
+          },
+          {
+            "question": "Il certificato è valido professionalmente?",
+            "answer": "Sì, è un documento ufficiale digitale, ottimo per CV e portfolio, soprattutto in ambito sportivo."
+          },
+          {
+            "question": "C’è un supporto per gli studenti?",
+            "answer": "Sì, via e-mail e WhatsApp. Il nostro team è disponibile per ogni esigenza."
+          },
+          {
+            "question": "Per quanto tempo mio figlio avrà accesso al corso?",
+            "answer": "L’accesso è a vita. Potrà rivedere le lezioni quando vuole."
+          },
+          {
+            "question": "Posso pagare a rate?",
+            "answer": "Sì, è possibile pagare in massimo 12 rate e anche con due carte diverse."
+          },
+          {
+            "question": "Le lezioni sono in diretta? Serve un orario fisso?",
+            "answer": "No, sono registrate. Tuo figlio può guardarle quando preferisce."
+          }
+        ],
+        "more_questions": {
+          "title": "Hai altre domande?",
+          "content": "Se non trovi qui la risposta, scrivici via e-mail. Siamo a tua disposizione!"
         }
       }
     },

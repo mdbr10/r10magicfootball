@@ -14,10 +14,10 @@ import { useState } from "react";
 import { useTranslation } from "react-i18next";
 
 const VIDEOS_IDS = {
-  modulo1: "ZVQubEdEBQ8",
-  modulo2: "2ar8AVDDwNY",
-  modulo3: "0HdKKDJu3b8",
-  modulo4: "l74ZV5pz3AM",
+  modulo1: "BWfLN1cwybQ",
+  modulo2: "Cvq91b611n8",
+  modulo3: "vNC3g3la_lM",
+  modulo4: "mWa8LYlX1go",
 };
 
 export default function Trailers() {

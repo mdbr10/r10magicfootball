@@ -10,7 +10,7 @@
         "guarantee": "Esse é um direito assegurado pelo Código do Consumidor (artigo 49 do CDC).",
         "email": "CONTATO@MANUALDOBRUXO",
         "instagram": "@MANUALDOBRUXO",
-        "whatsapp": "(11) 94249-9988",
+"whatsapp": "(11) 94249-9988",
         "privacy_policy": "Política de Privacidade",
         "terms": "Termos e Condições",
         "company": "Assis Moreira Group, Fama Licensig e Growth Venture."
@@ -133,37 +133,37 @@
     "course": {
       "hero": {
         "title": "APRENDA A MAGIA DO FUTEBOL COM RONALDINHO GAÚCHO",
-        "subtitle": "Aprenda todas as técnicas em um conteúdo inédito do melhor de todos os tempos",
-        "cta": "INSCREVA-SE",
+        "subtitle": "Desperte seu potencial sob a orientação de uma verdadeira lenda do futebol. Entre no universo de Ronaldinho Gaúcho, um ícone conhecido por sua criatividade, habilidade e genialidade em campo. Explore sua jornada, descubra suas técnicas e eleve seu jogo com conteúdos exclusivos.",
+        "cta": "Entrar na Jornada",
         "share": {
-          "title": "Manual do Bruxo",
+          "title": "Manual do Ronaldinho Gaúcho",
           "text": "Aprenda a magia do futebol com Ronaldinho Gaúcho",
           "button": "Compartilhar"
         },
-        "trailer": "Assistir Trailer",
-        "purchase": "Adquirir"
+        "trailer": "Assistir ao Trailer",
+        "purchase": "Comprar"
       },
       "about": {
         "title": "Sobre o curso",
-        "bio": "Ronaldinho Gaúcho, cujo nome verdadeiro é Ronaldo de Assis Moreira, é um dos maiores ícones do futebol mundial. Conhecido por sua habilidade extraordinária, criatividade e dribles mágicos, encantou torcedores ao redor do mundo jogando em clubes renomados como Grêmio, Paris Saint-Germain, Barcelona, AC Milan, Flamengo e Atlético Mineiro. Além de conquistar títulos importantes, ele foi eleito FIFA World Player do Ano.",
+        "bio": "Ronaldinho Gaúcho: um ícone global do futebol. Um maestro que encantou o mundo jogando pelo PSG, Barcelona, Milan e Seleção Brasileira, impressionando com sua arte e habilidade. Participe do único curso que traduz o brilho deste vencedor do prêmio de Melhor Jogador do Mundo da FIFA.",
         "modules": {
-          "title": "Módulos do Treinamento",
+          "title": "Módulos de Treinamento",
           "list": [
             {
               "title": "1. O Início da Magia",
-              "content": "Toda lenda tem um começo! Descubra como Ronaldinho Gaúcho iniciou sua trajetória e transformou o futebol com sua arte e genialidade. Venha e conheça a história por trás do jogador que revolucionou o futebol mundial."
+              "content": "Todo ícone tem um começo! Descubra as origens da jornada extraordinária de Ronaldinho Gaúcho e veja como sua criatividade, ousadia e talento natural transformaram o futebol para sempre. Conheça a história inspiradora de um gênio que redefiniu o jogo e deixou sua marca no mundo."
             },
             {
-              "title": "2. As Técnicas do Ronaldinho",
-              "content": "Domine os dribles desconcertantes, passes precisos e finalizações fatais que marcaram gerações. Aprenda os movimentos icônicos de Ronaldinho Gaúcho e leve seu jogo para outro nível!"
+              "title": "2. As Técnicas de Ronaldinho",
+              "content": "Desperte suas habilidades com os dribles lendários, passes precisos e finalizações geniais que marcaram uma era. Mergulhe no estilo único de Ronaldinho Gaúcho, domine seus movimentos icônicos e leve seu jogo a um nível de criatividade e confiança incomparáveis!"
             },
             {
-              "title": "3. A Visão do Bruxo",
-              "content": "Muito além do toque de bola, Ronaldinho via o jogo como poucos. Entenda a leitura tática, a criatividade e a tomada de decisão que tornaram seu futebol uma verdadeira obra de arte!"
+              "title": "3. A Visão de Ronaldinho Gaúcho",
+              "content": "Futebol vai além do controle da bola — é sobre enxergar possibilidades que os outros não veem. Explore a visão de jogo extraordinária de Ronaldinho, sua leitura tática e criatividade que fizeram de cada jogada uma obra-prima. Aprenda como ele transformava o futebol em arte."
             },
             {
-              "title": "4. A História do Bruxo",
-              "content": "De um jovem sonhador em Porto Alegre a um ícone mundial! Reviva os momentos marcantes da trajetória de Ronaldinho Gaúcho e veja como ele se tornou um dos maiores da história do futebol."
+              "title": "4. A História de Ronaldinho Gaúcho",
+              "content": "Das ruas de Porto Alegre aos maiores palcos do futebol mundial, Ronaldinho encantou milhões com seu talento e carisma. Reviva momentos inesquecíveis de sua trajetória — de jovem sonhador a ídolo mundial — e veja como ele se tornou um dos jogadores mais celebrados da história."
             }
           ]
         },
@@ -173,9 +173,91 @@
         "title": "Trailers",
         "modules": {
           "1": "O Início da Magia",
-          "2": "As Técnicas do Ronaldinho",
-          "3": "A Visão do Bruxo",
-          "4": "A História do Bruxo"
+          "2": "As Técnicas de Ronaldinho",
+          "3": "A Visão de Ronaldinho Gaúcho",
+          "4": "A História de Ronaldinho Gaúcho"
+        }
+      },
+      "faq": {
+        "title": "PERGUNTAS FREQUENTES",
+        "subtitle": "Clique em uma pergunta abaixo para ver a resposta",
+        "questions": [
+          {
+            "question": "O que é o \"Curso Magia do Futebol do Ronaldinho\"?",
+            "answer": "É um ecossistema de ensino exclusivo criado por Ronaldinho Gaúcho. Reúne sua trajetória histórica, habilidades técnicas consagradas e um repertório inovador. Voltado para jogadores aspirantes, fãs e profissionais, o manual oferece uma experiência de aprendizado completa com uma das maiores lendas do futebol."
+          },
+          {
+            "question": "Quem pode participar do curso?",
+            "answer": "Qualquer pessoa interessada no estilo único e legado do Ronaldinho. É voltado para amadores, atletas profissionais e fãs que desejam aprender com o craque."
+          },
+          {
+            "question": "Quem deve realizar a inscrição?",
+            "answer": "Para menores de idade, a inscrição deve ser feita por um responsável legal (pai, mãe ou tutor). Maiores de idade ou emancipados podem se inscrever por conta própria."
+          },
+          {
+            "question": "Quais temas são abordados no curso?",
+            "answer": "O curso aborda:\n\n• Técnicas de drible e controle de bola\n• Estratégias de jogo e visão tática\n• Treinamento de finalizações e passes\n• Histórias e momentos marcantes da carreira\n• Mentalidade vencedora e alegre"
+          },
+          {
+            "question": "Qual a duração do curso?",
+            "answer": "A duração depende do ritmo de cada aluno. O conteúdo é dividido em módulos e a carga horária média é de 140 minutos."
+          },
+          {
+            "question": "Como posso acessar o curso?",
+            "answer": "Após a inscrição e confirmação do pagamento, você receberá por e-mail um login e senha para acessar a plataforma exclusiva da Hotmart."
+          },
+          {
+            "question": "O certificado pode valorizar meu currículo?",
+            "answer": "Com certeza! O certificado digital oficial é reconhecido e pode ser um diferencial em currículos e portfólios, principalmente na área esportiva."
+          },
+          {
+            "question": "Por quanto tempo terei acesso ao curso?",
+            "answer": "O acesso é vitalício. Você poderá rever o conteúdo sempre que quiser, no seu próprio ritmo."
+          },
+          {
+            "question": "As aulas são gravadas ou ao vivo?",
+            "answer": "As aulas são gravadas, permitindo que você assista quando quiser, sem precisar agendar horários específicos."
+          },
+          {
+            "question": "E se eu tiver dúvidas que não estão no site?",
+            "answer": "Entre em contato com nosso suporte por e-mail. Nossa equipe está pronta para te ajudar!"
+          },
+          {
+            "question": "Quais temas estão presentes no Manual do Ronaldinho Gaúcho?",
+            "answer": "• Técnicas de drible e controle de bola\n• Estratégias de jogo e visão tática\n• Finalizações e passes\n• Histórias da carreira\n• Mentalidade vencedora e alegre"
+          },
+          {
+            "question": "Qual a duração do ecossistema de ensino?",
+            "answer": "Cerca de 140 minutos, mas o aluno pode fazer no seu próprio tempo."
+          },
+          {
+            "question": "Como acessar o Manual do Ronaldinho Gaúcho?",
+            "answer": "Após o pagamento, você receberá seu login e senha por e-mail para acessar a plataforma da Hotmart."
+          },
+          {
+            "question": "O certificado é válido para currículo?",
+            "answer": "Sim, é um documento digital oficial que pode ser utilizado profissionalmente, principalmente em áreas relacionadas ao esporte."
+          },
+          {
+            "question": "O curso oferece suporte ao aluno?",
+            "answer": "Sim, oferecemos suporte via e-mail e WhatsApp para tirar dúvidas e ajudar em qualquer etapa do curso."
+          },
+          {
+            "question": "Por quanto tempo meu filho terá acesso ao curso?",
+            "answer": "O acesso é vitalício. Ele poderá assistir quando quiser."
+          },
+          {
+            "question": "Posso pagar o curso em parcelas?",
+            "answer": "Sim, é possível parcelar em até 12 vezes e usar até dois cartões de crédito."
+          },
+          {
+            "question": "As aulas são ao vivo? Preciso organizar horários para meu filho assistir?",
+            "answer": "As aulas são gravadas, então não é necessário agendar horários. Ele pode assistir quando quiser."
+          }
+        ],
+        "more_questions": {
+          "title": "E se eu tiver outras dúvidas?",
+          "content": "Se você tiver alguma dúvida que não foi respondida aqui, entre em contato com nossa equipe de suporte por e-mail. Estamos prontos para ajudar!"
         }
       }
     },

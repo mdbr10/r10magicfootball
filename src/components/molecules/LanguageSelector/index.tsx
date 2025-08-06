@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import Image from "next/image";
 import Text from "@/components/atoms/Text";
 import BrazilFlag from "@/assets/brazilFlag.png";
-import USFlag from "@/assets/flags/us.svg";
+import UKFlag from "@/assets/flags/uk.svg";
 import SpainFlag from "@/assets/flags/es.svg";
 import FranceFlag from "@/assets/flags/fr.svg";
 import ItalyFlag from "@/assets/flags/it.svg";
@@ -36,8 +36,8 @@ const defaultFlags: Flag[] = [
   },
   {
     id: "en-US",
-    src: USFlag,
-    alt: "Bandeira dos EUA",
+    src: UKFlag,
+    alt: "Bandeira do Reino Unido",
     name: "English"
   },
   {

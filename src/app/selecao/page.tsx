@@ -14,10 +14,19 @@ import WhyWeAreDifferent from "@/components/templates/whyWeAreDifferent";
 import Modal from "@/components/molecules/Modal/ffModal";
 import { useSubscriptionModal } from "@/hooks/useSubscriptionModal";
 import { useTranslation } from "react-i18next";
+import { useEffect } from "react";
+import i18n from "@/i18n";
 
 function page() {
   const { openModal, isOpen, closeModal } = useSubscriptionModal();
   const { t } = useTranslation();
+
+  useEffect(() => {
+    if (i18n.language !== "pt-BR") {
+      i18n.changeLanguage("pt-BR");
+    }
+  }, []);
+
   return (
     <>
       <Header showCta={true} ctaText={t("selection.header.cta")} />

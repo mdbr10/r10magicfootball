@@ -24,6 +24,7 @@ function page() {
         <CourseHero openModal={openModal} />
         <AboutCourse openModal={openModal} />
         <Trailers />
+        {/* Ocultado por solicitação do time de negócio */}
         {/* <Rewards /> */}
         <Certificate />
         <FaqCurso />

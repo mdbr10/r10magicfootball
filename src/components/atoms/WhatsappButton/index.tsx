@@ -10,7 +10,7 @@ function WhatsappButton() {
       className={`border-2 border-white rounded-full bg-gray-300 flex flex-row items-center gap-3 justify-center w-auto p-1 fixed lg:bottom-4 lg:right-4 md:bottom-4 md:right-4 bottom-4 right-4 z-40 hover:scale-105 hover:bg-gray-200 transition-all duration-300 ease-in-out`}
     >
       <a
-        href="https://api.whatsapp.com/send?phone=5511916863204&text=Quero%20saber%20mais%20sobre%20o%20Manual%C2%A0do%C2%A0Bruxo"
+        href="https://wa.me/5511942499988?text=TheMagicFootballbyRonaldinho"
         target="_blank"
         className="flex flex-row items-center gap-2"
       >

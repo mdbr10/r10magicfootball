@@ -10,7 +10,7 @@
         "guarantee": "This is a right guaranteed by the Consumer Code (article 49 of CDC).",
         "email": "CONTATO@MANUALDOBRUXO",
         "instagram": "@MANUALDOBRUXO",
-        "whatsapp": "(11) 94249-9988",
+        "whatsapp": "Customer Care",
         "privacy_policy": "Privacy Policy",
         "terms": "Terms and Conditions",
         "company": "Assis Moreira Group, Fama Licensing and Growth Venture."
@@ -133,8 +133,8 @@
     "course": {
       "hero": {
         "title": "LEARN THE MAGIC OF FOOTBALL WITH RONALDINHO GAÚCHO",
-        "subtitle": "Learn all the techniques in exclusive content from the greatest of all time",
-        "cta": "SIGN UP",
+        "subtitle": "Unlock your potential under the guidance of a true football legend. Step into the world of Ronaldinho Gaúcho, an icon renowned for his creativity, flair, and match-winning skills. Explore his journey, discover his techniques, and elevate your game to new heights with exclusive training content.",
+        "cta": "Join the Journey",
         "share": {
           "title": "Ronaldinho Gaúcho Manual",
           "text": "Learn the magic of football with Ronaldinho Gaúcho",
@@ -145,25 +145,24 @@
       },
       "about": {
         "title": "About the course",
-        "bio": "Ronaldinho Gaúcho, whose real name is Ronaldo de Assis Moreira, is one of the greatest icons in world football. Known for his extraordinary skill, creativity and magical dribbling, he enchanted fans around the world playing for renowned clubs such as Grêmio, Paris Saint-Germain, Barcelona, AC Milan, Flamengo and Atlético Mineiro. Besides winning important titles, he was elected FIFA World Player of the Year.",
-        "modules": {
+        "bio": "Ronaldinho Gaúcho: A global football icon. A maestro who dazzled for PSG, Barcelona, AC Milan, and his national team, charming the world with his skill and artistry. Join the only training course that captures the brilliance of this FIFA World Player of the Year.",        "modules": {
           "title": "Training Modules",
           "list": [
             {
               "title": "1. The Beginning of Magic",
-              "content": "Every legend has a beginning! Discover how Ronaldinho Gaúcho started his journey and transformed football with his art and genius. Come and learn the story behind the player who revolutionized world football."
+              "content": "Every icon starts somewhere! Unveil the origins of Ronaldinho Gaúcho’s extraordinary journey and witness how his creativity, flair, and raw talent transformed the game forever. Learn the inspiring story of a football genius who redefined the art of play and left an indelible mark on the global stage."
             },
             {
               "title": "2. Ronaldinho's Techniques",
-              "content": "Master the bewildering dribbles, precise passes and deadly finishes that marked generations. Learn Ronaldinho Gaúcho's iconic moves and take your game to another level!"
+              "content": "Unleash your skills with the legendary dribbles, pinpoint passes, and game-changing finishes that defined an era. Delve into the genius behind Ronaldinho Gaúcho’s unique style, master his iconic moves, and elevate your gameplay to unmatched levels of creativity and confidence!"
             },
             {
               "title": "3. The Ronaldinho Gaúcho Vision",
-              "content": "Far beyond ball control, Ronaldinho saw the game like few others. Understand the tactical reading, creativity and decision-making that made his football a true work of art!"
+              "content": "Football isn't just about controlling the ball—it's about seeing possibilities that others don't. Dive deep into Ronaldinho Gaúcho's extraordinary game vision, his unmatched tactical reading, and the creativity that made his every move extraordinary. Learn how his decision-making turned football into an art form, inspiring generations worldwide."
             },
             {
               "title": "4. The Ronaldinho Gaúcho Story",
-              "content": "From a young dreamer in Porto Alegre to a world icon! Relive the memorable moments of Ronaldinho Gaúcho's journey and see how he became one of the greatest in football history."
+              "content": "From the streets of Porto Alegre to the world’s biggest stages, Ronaldinho Gaúcho dazzled millions with his unmatched talent and charisma. Relive the unforgettable moments of his journey—from a young dreamer to a global icon—and witness how he became one of the most celebrated players in the history of football."
             }
           ]
         },
@@ -179,80 +178,50 @@
         }
       },
       "faq": {
-        "questions": [
-          {
-            "question": "What is \"The Ronaldinho Gaúcho Manual\"?",
-            "answer": "\"The Ronaldinho Gaúcho Manual\" is Ronaldinho Gaúcho's teaching ecosystem, which brings together his historical legacy, technical skills, and football repertoire. It's exclusive content for those who want to learn from one of the greatest players of all time."
-          },
-          {
-            "question": "Who can participate in the Ronaldinho Gaúcho Manual?",
-            "answer": "The teaching ecosystem is open to all interested parties, from amateur and professional athletes to fans who want to learn more about Ronaldinho's playing style, vision, and skills."
-          },
-          {
-            "question": "Is Ronaldinho Gaúcho's teaching ecosystem digital or in-person?",
-            "answer": "The teaching ecosystem is divided into the Ronaldinho Gaúcho Manual in digital format through the Hotmart platform, and the Talent Selection which will be in-person events that will individually evaluate each athlete in various selections throughout the country."
-          },
-          {
-            "question": "I have more than one child interested in the Ronaldinho Gaúcho Manual and the Talent Selection. What should I do? Do I need to buy more than one access?",
-            "answer": "Yes, each registration to participate in the Talent Selection is individual. We recommend that you acquire access to the Ronaldinho Gaúcho Manual for each participant in the Talent Selection."
-          },
-          {
-            "question": "What is the Talent Selection?",
-            "answer": "It is a special selection of football athletes, conducted by the Ronaldinho Gaúcho Manual team. The Talent Selection will be completely different from conventional trials, which evaluate the athlete only in the collective context. The evaluations will be individual within the methods and practices taught in Ronaldinho Gaúcho's teaching ecosystem through the Ronaldinho Gaúcho Manual."
-          },
-          {
-            "question": "What are the categories of the selections?",
-            "answer": "The selections will be organized by age group, with categories appropriate to the physical and technical development of the participants: Under 7, Under 9, Under 11, Under 13, Under 15, Under 17, Under 19, 21+"
-          },
-          {
-            "question": "Who should register: parents, guardians, or the child?",
-            "answer": "Registration must be done by the legal guardian (father, mother, or tutor) in the case of minors. For participants over 18 years old or emancipated, the athlete themselves can register."
-          },
-          {
-            "question": "Is the selection only for males?",
-            "answer": "No. The selection is open to both male and female participants, encouraging the participation of all football talents."
-          },
-          {
-            "question": "Where will the selections take place?",
-            "answer": "The selections will be held in strategic locations that will be announced after the registration period. Detailed information will be sent to selected participants."
-          },
-          {
-            "question": "How does the Talent Selection process work?",
-            "answer": "The selection will be made based on technical criteria and skills demonstrated in individual and collective exercises. Details about the exercises will be sent to those registered in the Ronaldinho Gaúcho Manual."
-          },
-          {
-            "question": "What topics are covered in the Ronaldinho Gaúcho Manual?",
-            "answer": "• Dribbling techniques and ball control\n• Game strategies and tactical vision\n• Finishing and passing training\n• Stories and memorable moments from Ronaldinho's career\n• The joyful and winning mindset to stand out in football"
-          },
-          {
-            "question": "How long is the teaching ecosystem?",
-            "answer": "The duration of the course varies according to each student's pace. The content is organized in modules to facilitate learning and has an approximate workload of 140 minutes."
-          },
-          {
-            "question": "How can I access the Ronaldinho Gaúcho Manual?",
-            "answer": "After registration and payment confirmation, you will receive a login and password by email to access the exclusive course platform, which is Hotmart."
-          },
-          {
-            "question": "Can the certificate issued by the Ronaldinho Gaúcho Manual be used in resumes or portfolios?",
-            "answer": "Yes, the digital certificate is official and can be used as a differential in resumes or portfolios, especially in areas related to football and sports."
-          },
-          {
-            "question": "Does the teaching ecosystem have student support?",
-            "answer": "Yes, we offer support via email and WhatsApp to answer questions and help at any stage of the course."
-          },
-          {
-            "question": "How long will my child have access to the Ronaldinho Gaúcho Manual?",
-            "answer": "Access to the course is lifetime."
-          },
-          {
-            "question": "Can I pay for the Ronaldinho Gaúcho Manual in installments?",
-            "answer": "Yes, installment options will be available at the time of purchase, with the possibility of paying in up to 12 installments and with up to two credit cards, which helps you not to compromise your limit."
-          },
-          {
-            "question": "Are the classes live or recorded? Do I need to organize a specific time for my child to watch?",
-            "answer": "The classes are recorded, which means you don't need to organize a fixed time for your child to watch. He will be able to access the content at any time, according to his availability."
-          }
-        ]
+              "title": "FREQUENTLY ASKED QUESTIONS",
+      "subtitle": "Click on any question below to expand the fields with answers",
+      "questions": [
+        
+        {
+          "question": "What is \"Ronaldinho's magic of Football Course\"?",
+          "answer": "\"Ronaldinho's magic of Football Course\"  is an exclusive football teaching ecosystem created by Ronaldinho Gaúcho. It combines his historical legacy, renowned technical skills, and innovative football repertoire. Aimed at aspiring players, fans, and professionals, the manual offers a comprehensive learning experience from one of the most celebrated football legends of all time. Through online courses, participants can master iconic dribbles, precise passes, tactical strategies, and much more, reflecting the artistry and genius of Ronaldinho’s illustrious career."
+        },
+        {
+          "question": "Who is eligible to join the \"Ronaldinho's magic of Football Course\" and benefit from the exclusive football training ecosystem?",
+          "answer": "\"Ronaldinho's magic of Football Course\" is open to everyone who wants to delve into his unique footballing style and legacy. It caters to a wide audience, including amateur players, professional athletes aiming to refine their skills, and enthusiastic fans eager to learn from the footballing genius. This inclusivity ensures anyone inspired by Ronaldinho’s artistry and vision can access valuable insights and become part of his iconic legacy."
+        },
+        {
+          "question": "Who Should Register?",
+          "answer": "Registrations must be completed by the legal guardian (father, mother, or tutor) for participants under the age of 18. For individuals above 18 or those who are legally emancipated, the registration can be completed by the participant themselves."
+        },
+        {
+          "question": "What topics are covered in the \"Ronaldinho's magic of Football Course\"?",
+"answer": "<ul><li><strong>Dribbling Techniques and Ball Control:</strong> Learn the fundamentals of ball control and the artistry behind Ronaldinho's signature dribbling styles.</li><li><strong>Game Strategies and Tactical Vision:</strong> Develop an in-depth understanding of advanced tactics and strategies that elevated Ronaldinho's game.</li><li><strong>Finishing and Passing Training:</strong> Master techniques for precise passing and effective finishing on the field.</li><li><strong>Stories and Memorable Moments from Ronaldinho's Career:</strong> Relive iconic moments and gain insight into the journey of a football legend.</li><li><strong>The Joyful and Winning Mindset:</strong> Embrace the mentality of joy, passion, and resilience that defines true greatness in football.</li></ul>"        },
+        {
+          "question": "What is the duration of the \"Ronaldinho's magic of Football Course\" and how is the learning experience structured?",
+          "answer": "The duration of the Ronaldinho Gaúcho Manual course varies based on each student’s pace. The content is thoughtfully divided into modules to enhance learning flexibility. On average, the course has an approximate workload of 140 minutes, allowing learners to progress as per their convenience."
+        },
+        {
+          "question": "How can I access the \"Ronaldinho's magic of Football Course\"",
+          "answer": "You can access the \"Ronaldinho's magic of Football Course\" after completing the registration and payment process. Once confirmed, you will receive an email containing your login credentials (username and password) to access the exclusive course platform, hosted by Hotmart."
+        },
+        {
+          "question": "Can the Certificate from the  \"Ronaldinho's magic of Football Course\" enhance my CV or portfolio?",
+          "answer": "Absolutely! The official digital certificate issued by the \"Ronaldinho's magic of Football Course\" is a distinguished credential, making it a valuable addition to your CV or portfolio. Recognised for its connection to one of football's greatest legends, it serves as an impressive asset, particularly for those pursuing careers in football, sports, or related fields."
+        },
+        {
+          "question": "How long will I have access to \"Ronaldinho's magic of Football Course\" ?",
+          "answer": "You will enjoy lifetime access to the course. This means you can revisit the content anytime, gain continuous learning opportunities, and progress at your own pace without any time restrictions."
+        },
+        {
+          "question": "Are the classes pre-recorded, or do they require scheduling specific times to watch?",
+          "answer": "The classes in the \"Ronaldinho's magic of Football Course\" are pre-recorded, providing the flexibility to learn at your convenience. There is no need to schedule specific times for sessions, ensuring uninterrupted access to the lessons whenever it suits best, for learners of any age group."
+        }
+      ],
+      "more_questions": {
+        "title": "What should I do if my questions aren’t answered on the website?",
+        "content": "If you have any additional questions that aren’t addressed on this page, feel free to contact our Support Team via email. Our team is here to assist you at every step!"
+      }
       }
     },
     "selection": {

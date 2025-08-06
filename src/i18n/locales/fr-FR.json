@@ -10,7 +10,7 @@
         "guarantee": "C'est un droit garanti par le Code de la Consommation (article 49 du CDC).",
         "email": "CONTATO@MANUALDOBRUXO",
         "instagram": "@MANUALDOBRUXO",
-        "whatsapp": "(11) 94249-9988",
+"whatsapp": "(11) 94249-9988",
         "privacy_policy": "Politique de Confidentialité",
         "terms": "Termes et Conditions",
         "company": "Assis Moreira Group, Fama Licensing et Growth Venture."
@@ -132,12 +132,12 @@
     },
     "course": {
       "hero": {
-        "title": "APPRENEZ LA MAGIE DU FOOTBALL AVEC RONALDINHO GAÚCHO",
-        "subtitle": "Apprenez toutes les techniques dans un contenu exclusif du meilleur de tous les temps",
-        "cta": "INSCRIVEZ-VOUS",
+        "title": "APPRENDS LA MAGIE DU FOOTBALL AVEC RONALDINHO GAÚCHO",
+        "subtitle": "Libère ton potentiel aux côtés d'une véritable légende du football. Entre dans l’univers de Ronaldinho Gaúcho, icône reconnue pour sa créativité, sa fantaisie et ses actions décisives. Explore son parcours, découvre ses techniques et élève ton jeu grâce à un contenu d'entraînement exclusif.",
+        "cta": "Rejoins l’Aventure",
         "share": {
-          "title": "Manuel du Magicien",
-          "text": "Apprenez la magie du football avec Ronaldinho Gaúcho",
+          "title": "Manuel de Ronaldinho Gaúcho",
+          "text": "Apprends la magie du football avec Ronaldinho Gaúcho",
           "button": "Partager"
         },
         "trailer": "Voir la Bande-annonce",
@@ -145,37 +145,119 @@
       },
       "about": {
         "title": "À propos du cours",
-        "bio": "Ronaldinho Gaúcho, dont le vrai nom est Ronaldo de Assis Moreira, est l'une des plus grandes icônes du football mondial. Connu pour son habileté extraordinaire, sa créativité et ses dribbles magiques, il a enchanté les fans du monde entier en jouant dans des clubs renommés comme Grêmio, Paris Saint-Germain, Barcelone, AC Milan, Flamengo et Atlético Mineiro. En plus de remporter des titres importants, il a été élu FIFA World Player of the Year.",
+        "bio": "Ronaldinho Gaúcho : une icône mondiale du football. Un maître du ballon qui a brillé au PSG, au FC Barcelone, à l'AC Milan et en équipe nationale, charmant le monde par son talent et son art du jeu. Rejoins le seul cours de formation qui capture l’essence du génie élu Joueur Mondial de la FIFA.",
         "modules": {
           "title": "Modules de Formation",
           "list": [
             {
-              "title": "1. Le Début de la Magie",
-              "content": "Chaque légende a un début ! Découvrez comment Ronaldinho Gaúcho a commencé sa trajectoire et transformé le football avec son art et son génie. Venez découvrir l'histoire derrière le joueur qui a révolutionné le football mondial."
+              "title": "1. Les Débuts de la Magie",
+              "content": "Chaque légende a un début ! Découvre les origines du parcours extraordinaire de Ronaldinho Gaúcho et comment sa créativité, son style et son talent brut ont transformé le football à jamais. Apprends l’histoire inspirante de ce génie du ballon qui a redéfini le jeu."
             },
             {
               "title": "2. Les Techniques de Ronaldinho",
-              "content": "Maîtrisez les dribbles déconcertants, les passes précises et les finitions létales qui ont marqué des générations. Apprenez les mouvements emblématiques de Ronaldinho Gaúcho et élevez votre jeu à un autre niveau !"
+              "content": "Améliore tes compétences avec ses dribbles légendaires, ses passes millimétrées et ses finitions décisives. Plonge dans le style unique de Ronaldinho Gaúcho, maîtrise ses gestes iconiques et propulse ton jeu à un niveau de créativité et de confiance inégalé !"
             },
             {
-              "title": "3. La Vision du Magicien",
-              "content": "Bien au-delà du toucher de balle, Ronaldinho voyait le jeu comme peu d'autres. Comprenez la lecture tactique, la créativité et la prise de décision qui ont fait de son football une véritable œuvre d'art !"
+              "title": "3. La Vision de Ronaldinho Gaúcho",
+              "content": "Le football, ce n’est pas seulement maîtriser le ballon : c’est voir ce que les autres ne voient pas. Découvre la vision de jeu exceptionnelle de Ronaldinho Gaúcho, sa lecture tactique hors du commun et la créativité qui faisait de chaque action une œuvre d’art."
             },
             {
-              "title": "4. L'Histoire du Magicien",
-              "content": "D'un jeune rêveur à Porto Alegre à une icône mondiale ! Revivez les moments mémorables de la trajectoire de Ronaldinho Gaúcho et voyez comment il est devenu l'un des plus grands de l'histoire du football."
+              "title": "4. L’Histoire de Ronaldinho Gaúcho",
+              "content": "Des rues de Porto Alegre aux plus grands stades du monde, Ronaldinho a ébloui des millions de fans avec son talent et son charisme. Revivez les moments inoubliables de son parcours, de jeune rêveur à icône mondiale."
             }
           ]
         },
-        "cta": "INSCRIVEZ-VOUS"
+        "cta": "S’INSCRIRE"
       },
       "trailers": {
         "title": "Bandes-annonces",
         "modules": {
-          "1": "Le Début de la Magie",
+          "1": "Les Débuts de la Magie",
           "2": "Les Techniques de Ronaldinho",
-          "3": "La Vision du Magicien",
-          "4": "L'Histoire du Magicien"
+          "3": "La Vision de Ronaldinho Gaúcho",
+          "4": "L’Histoire de Ronaldinho Gaúcho"
+        }
+      },
+      "faq": {
+        "title": "QUESTIONS FRÉQUENTES",
+        "subtitle": "Clique sur une question pour voir la réponse",
+        "questions": [
+          {
+            "question": "Qu’est-ce que le « Cours Magique de Football de Ronaldinho » ?",
+            "answer": "Ce cours est un écosystème d'apprentissage exclusif créé par Ronaldinho Gaúcho. Il combine son héritage historique, ses compétences techniques renommées et une approche innovante du football. Conçu pour les joueurs, fans et professionnels, il propose une formation complète inspirée d’une légende du sport."
+          },
+          {
+            "question": "Qui peut participer au Cours de Ronaldinho ?",
+            "answer": "Le cours est ouvert à tous ceux qui souhaitent découvrir ou approfondir le style unique et le parcours de Ronaldinho. Il s’adresse aux amateurs, aux professionnels et aux passionnés du football."
+          },
+          {
+            "question": "Qui doit s’inscrire ?",
+            "answer": "L’inscription doit être faite par le parent ou tuteur légal pour les mineurs. Pour les adultes ou les personnes émancipées, l’inscription peut être faite directement."
+          },
+          {
+            "question": "Quels sujets sont abordés dans le cours ?",
+            "answer": "Le cours couvre :\n\n• Techniques de dribble et contrôle du ballon\n• Stratégies de jeu et vision tactique\n• Entraînement à la finition et aux passes\n• Histoires et moments marquants de la carrière de Ronaldinho\n• État d’esprit joyeux et gagnant pour exceller dans le football"
+          },
+          {
+            "question": "Quelle est la durée du cours ?",
+            "answer": "La durée varie selon le rythme de chaque étudiant. Le contenu est divisé en modules, pour un total d’environ 140 minutes de formation."
+          },
+          {
+            "question": "Comment puis-je accéder au cours ?",
+            "answer": "Après inscription et paiement, tu recevras un e-mail avec tes identifiants pour accéder à la plateforme Hotmart."
+          },
+          {
+            "question": "Le certificat est-il utile pour un CV ou un portfolio ?",
+            "answer": "Oui, le certificat officiel est un atout de poids dans le monde sportif et peut valoriser un CV ou un portfolio professionnel."
+          },
+          {
+            "question": "Combien de temps ai-je accès au cours ?",
+            "answer": "L'accès est à vie. Tu peux revoir le contenu autant de fois que tu veux, à ton propre rythme."
+          },
+          {
+            "question": "Les cours sont-ils en direct ou enregistrés ?",
+            "answer": "Ils sont enregistrés, ce qui permet de les visionner à tout moment selon ta disponibilité."
+          },
+          {
+            "question": "Et si j’ai une question qui ne figure pas sur la page ?",
+            "answer": "Tu peux contacter notre support par e-mail. Nous sommes là pour t’aider à chaque étape !"
+          },
+          {
+            "question": "Quels thèmes sont abordés dans le Manuel de Ronaldinho ?",
+            "answer": "• Techniques de dribble et contrôle\n• Stratégies et vision du jeu\n• Finition et passes\n• Histoires de carrière\n• Mentalité joyeuse et gagnante"
+          },
+          {
+            "question": "Quelle est la durée de l’écosystème pédagogique ?",
+            "answer": "Environ 140 minutes, à suivre selon ton rythme."
+          },
+          {
+            "question": "Comment accéder au Manuel de Ronaldinho ?",
+            "answer": "Après paiement, tu recevras un e-mail avec tes identifiants pour te connecter à la plateforme."
+          },
+          {
+            "question": "Le certificat est-il reconnu ?",
+            "answer": "Oui, il s'agit d’un certificat numérique officiel, reconnu comme valeur ajoutée, notamment dans le domaine sportif."
+          },
+          {
+            "question": "Y a-t-il un support pour les étudiants ?",
+            "answer": "Oui, par e-mail et WhatsApp, à toutes les étapes du parcours."
+          },
+          {
+            "question": "Combien de temps mon enfant aura-t-il accès au cours ?",
+            "answer": "L’accès est permanent, ton enfant pourra consulter le contenu à tout moment."
+          },
+          {
+            "question": "Puis-je payer en plusieurs fois ?",
+            "answer": "Oui, jusqu’à 12 mensualités, avec possibilité d’utiliser deux cartes bancaires."
+          },
+          {
+            "question": "Les cours sont-ils en direct ? Dois-je respecter un horaire ?",
+            "answer": "Les cours sont enregistrés. Tu peux donc les suivre quand tu veux, sans contrainte horaire."
+          }
+        ],
+        "more_questions": {
+          "title": "Tu as d'autres questions ?",
+          "content": "Si tu ne trouves pas ta réponse ici, contacte notre équipe de support par e-mail. Nous sommes là pour toi !"
         }
       }
     },

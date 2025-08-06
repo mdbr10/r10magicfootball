@@ -4,7 +4,7 @@ import Image from "next/image";
 import Container from "@/components/atoms/Container";
 import Text from "@/components/atoms/Text";
 import Title from "@/components/atoms/Title";
-import certificateImg from "@/assets/certificate.png";
+import certificateImg from "@/assets/MDB.png";
 import { useTranslation } from "react-i18next";
 
 function Certificate() {
