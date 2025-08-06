@@ -3,7 +3,7 @@
     "common": {
       "header": {
         "selectLanguage": "Select language",
-        "cta": "I WANT MY SPOT"
+        "cta": "JOIN THE JOURNEY"
       },
       "footer": {
         "copyright": "All rights reserved",
@@ -23,11 +23,11 @@
       },
       "modal": {
         "title": "FILL IN THE DATA BELOW TO COMPLETE YOUR REGISTRATION",
-        "ffTitle": "SECURE YOUR SPOT NOW",
+        "ffTitle": "JOIN THE JOURNEY",
         "name": "Name",
         "email": "Email",
         "phone": "Whatsapp with DDD",
-        "submit": "I WANT MY SPOT",
+        "submit": "JOIN THE MAGIC",
         "loading": "PROCESSING..."
       },
       "inTheMedia": {

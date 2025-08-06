@@ -24,7 +24,9 @@ function Modal({ isOpen, onClose, type }: IModalProps) {
     };
   }, []);
 
-  const isTrainingPage = typeof window !== 'undefined' && window.location.hostname.startsWith('training.')
+  const isTrainingPage =
+    typeof window !== "undefined" &&
+    window.location.hostname.startsWith("training.");
 
   const getIframeProps = () => {
     if (type === "boleto") {
@@ -32,24 +34,15 @@ function Modal({ isOpen, onClose, type }: IModalProps) {
         src: "https://link.fullfunnel.app/widget/form/0hXB83sRNQDKOtzIstRm",
         id: "inline-0hXB83sRNQDKOtzIstRm",
         formId: "0hXB83sRNQDKOtzIstRm",
-        title: "Nova Página MB (Boleto)"
-      };
-    }
-
-    if (isTrainingPage) {
-      return {
-        src: "https://link.fullfunnel.app/widget/form/q83mTTfJZnmOvoz653iR",
-        id: "inline-q83mTTfJZnmOvoz653iR",
-        formId: "q83mTTfJZnmOvoz653iR",
-        title: "Nova Página MB - International"
+        title: "Nova Página MB (Boleto)",
       };
     }
 
     return {
-      src: "https://link.fullfunnel.app/widget/form/gioRnUkGLHjN658v3KPE",
-      id: "inline-gioRnUkGLHjN658v3KPE",
-      formId: "gioRnUkGLHjN658v3KPE",
-      title: "Nova Página MB"
+      src: "https://link.fullfunnel.app/widget/form/q83mTTfJZnmOvoz653iR",
+      id: "inline-q83mTTfJZnmOvoz653iR",
+      formId: "q83mTTfJZnmOvoz653iR",
+      title: "Nova Página MB - International",
     };
   };
 
@@ -75,11 +68,7 @@ function Modal({ isOpen, onClose, type }: IModalProps) {
 
         {/* Título */}
         <div className="w-full text-center pt-8 pb-0 px-6">
-          <Title
-            size="text-2xl md:text-4xl"
-          >
-            {t("common.modal.ffTitle")}
-          </Title>
+          <Title size="text-2xl md:text-4xl">{t("common.modal.ffTitle")}</Title>
           <div className="w-16 h-1 bg-gradient-to-r from-primary-green to-yellow-green mx-auto mt-4"></div>
         </div>
 

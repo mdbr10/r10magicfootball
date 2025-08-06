@@ -64,7 +64,7 @@ function Footer() {
 
             {/* Garantia - Desktop */}
             <div className="hidden lg:flex gap-3 items-center">
-              <div className="w-[80px] h-[80px]">
+              <div className="w-[80px] h-[80px]" style={{minWidth: 80}}>
                 {shouldUseEnglishLogo ? (
                   <Image
                     src={guarantee}
