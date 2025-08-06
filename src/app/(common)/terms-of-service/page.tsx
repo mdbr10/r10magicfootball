@@ -6,6 +6,8 @@ import Header from "@/components/templates/header";
 export default function page() {
   return (
     <>
+      <Header />
+
       <main className="min-h-screen bg-black py-20">
         <Container>
           <div className="flex flex-col gap-8 py-20">
@@ -150,6 +152,7 @@ export default function page() {
           </div>
         </Container>
       </main>
+      <Footer />
     </>
   );
 }

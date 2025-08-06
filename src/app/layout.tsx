@@ -12,9 +12,9 @@ export default function RootLayout({
     <html lang="pt-br">
       <head>
         <Script
-          id="cookiebot"
+          id="Cookiebot"
           src="https://consent.cookiebot.com/uc.js"
-          data-cbid="733b42d7-c7c4-411f-88d8-dc7be367a465"
+          data-cbid="aa2cd170-6d48-4b19-962e-270c52259b39"
           data-blockingmode="auto"
           type="text/javascript"
           strategy="beforeInteractive"

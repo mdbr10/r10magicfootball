@@ -29,7 +29,9 @@ function Footer() {
     return (
       normalizedPath.startsWith("/curso") ||
       normalizedPath.startsWith("/course") ||
-      hostname.includes("training.manualdobruxo.com")
+      hostname.includes("training.manualdobruxo.com") ||
+      normalizedPath.startsWith("/terms-of-service") ||
+      normalizedPath.startsWith("/privacy-policy")
     );
   }, [pathname]);
 
@@ -116,8 +118,8 @@ function Footer() {
                   <Mail width="18" height="18" />
                 </div>
                 <Text color="mid-gray" size="text-xs" weight="light">
-                  <a href="mailto:contato@manualdobruxo">
-                    {t("common.footer.email")}
+                  <a href="mailto:ronaldinhogauchoeuropa@gmail.com">
+                    Magic Football e-mail
                   </a>
                 </Text>
               </div>
@@ -162,7 +164,7 @@ function Footer() {
                 <Mail width="20" height="20" />
               </div>
               <Text color="mid-gray" size="text-sm" weight="light">
-                <a href="mailto:contato@manualdobruxo">CONTATO@MANUALDOBRUXO</a>
+                <a href="mailto:ronaldinhogauchoeuropa@gmail.com">Magic Football e-mail</a>
               </Text>
             </div>
             {!shouldUseEnglishLogo && (
