@@ -9,7 +9,6 @@ import FaqCurso from "@/components/templates/faq/FaqCurso";
 import { useSubscriptionModal } from "@/hooks/useSubscriptionModal";
 import Modal from "@/components/molecules/Modal/ffModal";
 import { useTranslation } from "react-i18next";
-import Rewards from "@/components/templates/rewards";
 import Certificate from "@/components/templates/certificate";
 
 function page() {

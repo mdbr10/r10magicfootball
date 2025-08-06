@@ -8,7 +8,6 @@ import SevenDays from "@/assets/svg/sevenDays";
 import Whatsapp2 from "@/assets/svg/whatsapp2";
 import Container from "@/components/atoms/Container";
 import Text from "@/components/atoms/Text";
-import Link from "next/link";
 import { useTranslation } from "react-i18next";
 import Image from "next/image";
 import guarantee from "@/assets/guarantee.png";

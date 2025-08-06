@@ -23,11 +23,7 @@ function Modal({ isOpen, onClose, type }: IModalProps) {
       document.body.removeChild(script);
     };
   }, []);
-
-  const isTrainingPage =
-    typeof window !== "undefined" &&
-    window.location.hostname.startsWith("training.");
-
+  
   const getIframeProps = () => {
     if (type === "boleto") {
       return {
