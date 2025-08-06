@@ -8,10 +8,10 @@ const nextConfig: NextConfig = {
         has: [
           {
             type: 'host',
-            value: '^(www\\.)?manualdobruxo\\.com\\.br$',
+            value: '^(www\\.)?r10magicfootball\\.com\\$',
           },
         ],
-        destination: 'https://www.manualdobruxo.com.br',
+        destination: 'https://www.r10magicfootball.com',
         permanent: false, // true para 308 (permanente), false para 307 (temporário)
       }
     ];
