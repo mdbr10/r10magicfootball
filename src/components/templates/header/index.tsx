@@ -35,7 +35,9 @@ function Header({
     return (
       normalizedPath.startsWith("/curso") ||
       normalizedPath.startsWith("/course") ||
-      hostname.includes("training.manualdobruxo.com") ||
+      hostname.includes("r10magicfootball.com") ||
+      hostname.includes("localhost") ||
+      hostname.includes("127.0.0.1") ||
       normalizedPath.startsWith("/terms-of-service") ||
       normalizedPath.startsWith("/privacy-policy")
     );
