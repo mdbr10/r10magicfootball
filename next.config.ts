@@ -1,8 +1,14 @@
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+// next.config.js
+const nextConfig = {
+  async redirects() {
+    return [
+      {
+        source: 'https://r10magicfootball.com/:path*',
+        destination: 'https://www.r10magicfootball.com/:path*',
+        permanent: true,
+      },
+    ];
+  },
 };
 
-export default nextConfig;
+module.exports = nextConfig;
