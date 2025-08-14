@@ -200,12 +200,12 @@ return (
           {/* Política de Privacidade */}
           <div className="hidden lg:flex flex-col gap-4">
             <Text color="light-gray" size="text-lg" weight="light">
-              <a href="/terms-of-service">
+              <a href="/privacy-policy">
                 {t("common.footer.privacy_policy")}
               </a>
             </Text>
             <Text color="light-gray" size="text-lg" weight="light">
-              <a href="/privacy-policy">{t("common.footer.terms")}</a>
+              <a href="/terms-of-service">{t("common.footer.terms")}</a>
             </Text>
           </div>
         </div>

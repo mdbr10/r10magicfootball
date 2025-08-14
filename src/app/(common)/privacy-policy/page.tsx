@@ -20,7 +20,7 @@ export default function TermosPrivacidade() {
                   Magic of Football by Ronaldinho - Manual do Bruxo
                 </strong>
                 <br />
-                <strong>Last updated:</strong> [fill with release date]
+                <strong>Last updated:</strong> August 14, 2025.
               </Text>
 
               <Text color="mid-gray" size="text-base">
