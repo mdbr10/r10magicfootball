@@ -105,6 +105,7 @@ export default function CourseHero({ openModal }: { openModal: () => void }) {
                 >
                   {t("course.hero.cta")}
                 </Text>
+                
               </Button>
             </div>
           </div>
